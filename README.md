@@ -20,7 +20,7 @@ How can these problems be solved as quickly as possible?
 
 ###Mini-abstract and relevance of [twosongshift.py]
 
-A python script I previously wrote already solves the problem of determining the ideal transition between 2 songs.  Using an algorithm similar to [The Infinite Jukebox], [twsongshift.py] determines a transition based on the weighted euclidean distances of 2 segments between their timbre, pitch, and volume.
+A python script I previously wrote already solves the problem of determining the ideal transition between 2 songs.  Using an algorithm similar to [The Infinite Jukebox], [twosongshift.py] determines a transition based on the weighted euclidean distances of 2 segments between their timbre, pitch, and volume.
 
 ###Mini-abstract and relevance of [The Inifinite Jukebox]
 
