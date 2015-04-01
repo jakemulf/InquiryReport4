@@ -14,9 +14,9 @@ How can these problems be solved as quickly as possible?
 
 #Resources
 
-1: [twosongshift.py]
-2: [The Infinite Jukebox]
-3: [mp3combine.py]
+1. [twosongshift.py]
+2. [The Infinite Jukebox]
+3. [mp3combine.py]
 
 ###Mini-abstract and relevance of [twosongshift.py]
 
