@@ -22,7 +22,7 @@ How can these problems be solved as quickly as possible?
 
 A python script I previously wrote already solves the problem of determining the ideal transition between 2 songs.  Using an algorithm similar to [The Infinite Jukebox], [twosongshift.py] determines a transition based on the weighted euclidean distances of 2 segments between their timbre, pitch, and volume.
 
-###Mini-abstract and relevance of [The Inifinite Jukebox]
+###Mini-abstract and relevance of [The Infinite Jukebox]
 
 The Infinite Jukebox has been the basis of this research problem for the past few months.  It is a piece of software that plays a song continuously, taking transitions between segments that are similar in their pitch, timbre, duration, and loudness.  This comparison is done with a weighted euclidean distance.  This technique can be extended to our problem to fix the issue where a song begins playing at a point past the best transition to the next song.
 
